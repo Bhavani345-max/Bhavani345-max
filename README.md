@@ -13,7 +13,7 @@ Let's connect and collaborate!
 </div>
 
 ## 🛠️ Tech Stack
-- **Languages**: [Java,HTML,CSS,Javascript,SQL]
+- **Languages**: [Java,Python,HTML,CSS,Javascript,SQL]
 - **Frameworks/Tools**: [React, Git]
 - **Other**: [e.g., Docker, AWS]
 
@@ -29,7 +29,7 @@ Let's connect and collaborate!
 
 ## 📫 Let's Connect!
 - 📧 Email: [pilariguntabhavani12@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
+- 💼 LinkedIn: [https://www.linkedin.com/in/bhavani-sankar-pillarigunta-84136924a/]
 - 🐦 Twitter/X: [@yourhandle](https://x.com/yourhandle)
 - 🌐 Portfolio: [yourwebsite.com]
 
